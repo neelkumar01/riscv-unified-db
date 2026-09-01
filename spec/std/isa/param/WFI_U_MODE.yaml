@@ -17,3 +17,4 @@ description: |
     * false: WFI cannot be executed in U mode
 schema:
   type: boolean
+  
