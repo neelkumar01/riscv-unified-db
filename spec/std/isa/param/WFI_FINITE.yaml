@@ -4,7 +4,7 @@
 
 $schema: param_schema.json#
 kind: parameter
-name: WFI_TIMEOUT
+name: WFI_FINITE
 long_name: |
   Whether WFI resumes execution after a finite amount of time
 definedBy:
