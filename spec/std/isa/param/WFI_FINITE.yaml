@@ -17,4 +17,3 @@ description: |
     * false: WFI may continue waiting until another event causes execution to resume
 schema:
   type: boolean
-  
