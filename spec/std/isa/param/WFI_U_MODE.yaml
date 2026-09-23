@@ -15,6 +15,6 @@ description: |
   Options:
 
     * true: WFI can be executed in U mode
-    * false: WFI cannot be executed in U mode
+    * false: Executing WFI in U mode raises an illegal instruction exception
 schema:
   type: boolean
