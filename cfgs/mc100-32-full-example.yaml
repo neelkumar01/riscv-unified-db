@@ -165,3 +165,5 @@ params:
   MEI_INTR_IMPL: false
   MSI_INTR_IMPL: false
   MTI_INTR_IMPL: false
+  WFI_FINITE: true
+  WFI_U_MODE: false

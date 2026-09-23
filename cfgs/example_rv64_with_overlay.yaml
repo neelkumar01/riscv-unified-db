@@ -622,3 +622,5 @@ params:
   VSEI_INTR_IMPL: false
   VSSI_INTR_IMPL: false
   VSTI_INTR_IMPL: true
+  WFI_U_MODE: false
+  WFI_FINITE: true
