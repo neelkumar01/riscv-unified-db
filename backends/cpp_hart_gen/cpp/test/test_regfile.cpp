@@ -122,6 +122,8 @@ params:
   SEI_INTR_IMPL: false
   SSI_INTR_IMPL: false
   STI_INTR_IMPL: false
+  WFI_FINITE: true
+  WFI_U_MODE: false
 )";
 
 // ---------------------------------------------------------------------------
