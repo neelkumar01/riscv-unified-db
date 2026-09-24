@@ -35,7 +35,6 @@ implemented_extensions:
 
 params:
   MXLEN: 64
-  WFI_FINITE: true
   MARCHID_IMPLEMENTED: true
   ARCH_ID_VALUE: 1
   MIMPID_IMPLEMENTED: true
@@ -289,3 +288,4 @@ params:
   SSI_INTR_IMPL: false
   STI_INTR_IMPL: false
   WFI_U_MODE: false
+  WFI_FINITE: true
